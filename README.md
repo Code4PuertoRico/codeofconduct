@@ -1,7 +1,4 @@
-codeofconduct
-=============
-
-#### Code for America's Code of Conduct
+# Code of Conduct
 
 The Code for America community expects that Code for America network activities, events, and digital forums:
 

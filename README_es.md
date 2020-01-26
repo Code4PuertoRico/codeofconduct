@@ -1,7 +1,4 @@
-codigodeconducta
-=============
-
-####Código de Conducta de "Code for America"
+# Código de Conducta
 
 La comunidad de "Code for America" espera que las actividades y eventos de "Code for America":
 
