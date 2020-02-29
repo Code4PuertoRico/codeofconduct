@@ -1,13 +1,13 @@
 # Codigo de Conducta / Code of Conduct
 
-- [En español](#codigo-de-conducta-de-code-4-puerto-rico)
-  - [Como contribuir](#como-contribuir-a-este-codigo-de-conducta)
+- [En español](#código-de-conducta-de-code-4-puerto-rico)
+  - [Como contribuir](#como-contribuir-a-este-código-de-conducta)
   - [Más Información o reportar incidentes](#mas-informacion-o-reporte-de-incidentes)
 - [In English](#code-4-puerto-rico-code-of-conduct)
   - [How to Contribute](#how-to-contribute-to-this-code-of-conduct)
   - [More information and incident reports](#more-information-and-incident-reports)
 
-## Codigo de Conducta de Code 4 Puerto Rico
+## Código de Conducta de Code 4 Puerto Rico
 
 En Code 4 Puerto Rico creemos que todxs deben de sentirse comodo, acceptado y seguro.
 
