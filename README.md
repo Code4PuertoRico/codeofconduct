@@ -2,7 +2,7 @@
 
 - [En español](#código-de-conducta-de-code-4-puerto-rico)
   - [Como contribuir](#como-contribuir-a-este-código-de-conducta)
-  - [Más Información o reportar incidentes](#más-informacion-o-reporte-de-incidentes)
+  - [Más Información o reportar incidentes](#más-información-o-reporte-de-incidentes)
 - [In English](#code-4-puerto-rico-code-of-conduct)
   - [How to Contribute](#how-to-contribute-to-this-code-of-conduct)
   - [More information and incident reports](#more-information-and-incident-reports)
