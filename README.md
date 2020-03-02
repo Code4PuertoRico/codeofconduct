@@ -9,7 +9,7 @@
 
 ## Código de Conducta de Code 4 Puerto Rico
 
-En Code 4 Puerto Rico creemos que todxs deben de sentirse cómodos, aceptados y seguros.
+En Code 4 Puerto Rico creemos que todxs deben sentirse cómodos, aceptados y seguros.
 
 Por esta razón tomamos el código de conducta de Code for America y lo hicimos nuestro. Por favor tome un momento para leer la versión en español [aquí](code_of_conduct_es.md).
 
