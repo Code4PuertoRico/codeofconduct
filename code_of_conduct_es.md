@@ -44,7 +44,7 @@ También puede contactar a "Code for America" sobre alguna situación de acoso e
 
 Valoramos su presencia y esperamos que al comunicar estas expectativas todos podamos disfrutar de un ambiente libre de acoso.
 
-#####Borrador para Reportar Acoso
+##### Borrador para Reportar Acoso
 
 TEMA: Safe Space alert at [NOMBRE DEL EVENTO]
 
